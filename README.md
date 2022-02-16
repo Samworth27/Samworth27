@@ -1,4 +1,6 @@
 ---
-# Profile README
+# Sam Mitchell
 ---
-working this shit out
+&nbsp;
+### Links
+[LeetCode](https://leetcode.com/Samworth27/)
